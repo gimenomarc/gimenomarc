@@ -10,4 +10,4 @@ Soy Marc, un apasionado programador de software con experiencia en la gestión d
 
 - Siempre estoy buscando oportunidades para aprender y crecer, manteniéndome al tanto de las últimas tendencias de la industria y explorando nuevas tecnologías. 📚
 
-- Soy un firme creyente en el trabajo en equipo y la colaboración, y me esfuerzo por contribuir al éxito de cada proyecto en el que participo. Juntos, podemos lograr grandes cosas. 👥
+- Soy un firme creyente en el trabajo en equipo y la colaboración, y me esfuerzo por contribuir al éxito de cada proyecto en el que participo. 👥
