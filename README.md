@@ -1,16 +1,13 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**gimenomarc/gimenomarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Marc, un apasionado programador de software con experiencia en la gestión de proyectos informáticos y en el desarrollo de soluciones innovadoras y eficientes. 👨‍💻
 
-Here are some ideas to get you started:
+## Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Actualmente, me desempeño como Project Manager y Software Developer, liderando proyectos y contribuyendo activamente al desarrollo de soluciones tecnológicas. 💼
+
+- Mi enfoque principal se centra en la creación de aplicaciones y sitios web utilizando tecnologías de vanguardia como React ⚛️, Node.js 🚀, y Express 🌐. Me encanta el desafío de resolver problemas complejos y encontrar formas creativas de llevar a cabo proyectos exitosos. 💡
+
+- Siempre estoy buscando oportunidades para aprender y crecer, manteniéndome al tanto de las últimas tendencias de la industria y explorando nuevas tecnologías. 📚
+
+- Soy un firme creyente en el trabajo en equipo y la colaboración, y me esfuerzo por contribuir al éxito de cada proyecto en el que participo. Juntos, podemos lograr grandes cosas. 👥
