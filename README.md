@@ -4,7 +4,7 @@ Soy Marc, un apasionado programador de software con experiencia en la gestión d
 
 ## Sobre Mí
 
-- 🚀 Actualmente, me desempeño como Project Manager y Software Developer, trabajando en varios proyectos y contribuyendo activamente al desarrollo de soluciones tecnológicas. 💼
+- 🚀 Actualmente, me desempeño como IT Manager y Software Developer, trabajando en varios proyectos y contribuyendo activamente al desarrollo de soluciones tecnológicas. 💼
 
 - Mi enfoque principal se centra en la creación de aplicaciones y sitios web utilizando tecnologías como React ⚛️, Node.js 🚀, y Express 🌐. Me encanta el desafío de resolver problemas complejos y encontrar formas creativas de llevar a cabo proyectos exitosos. 💡
 
