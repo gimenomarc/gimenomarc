@@ -1,13 +1,49 @@
-# ¡Hola! 👋
+¡Hola! 👋
 
-Soy Marc, un apasionado programador de software con experiencia en la gestión de proyectos informáticos y en el desarrollo de soluciones innovadoras y eficientes. 👨‍💻
+Sobre Mí
 
-## Sobre Mí
+Soy Marc Gimeno Cervantes, un apasionado desarrollador de software especializado en Inteligencia Artificial, con experiencia en la gestión de proyectos tecnológicos y el desarrollo de soluciones innovadoras y eficientes. 💻🚀
 
-- 🚀 Actualmente, me desempeño como IT Manager y Software Developer, trabajando en varios proyectos y contribuyendo activamente al desarrollo de soluciones tecnológicas. 💼
+🔮 Experiencia y Especialización
 
-- Mi enfoque principal se centra en la creación de aplicaciones y sitios web utilizando tecnologías como React ⚛️, Node.js 🚀, y Express 🌐. Me encanta el desafío de resolver problemas complejos y encontrar formas creativas de llevar a cabo proyectos exitosos. 💡
+💪 CEO & Founder de KAINODE, empresa especializada en la transformación digital e integración de IA en negocios.
 
-- Siempre estoy buscando oportunidades para aprender y crecer, manteniéndome al tanto de las últimas tendencias de la industria y explorando nuevas tecnologías. 📚
+🤖 IA Software Developer & IT Manager en AMB Informació i Serveis SA, donde desarrollo soluciones avanzadas de IA, chatbots y sistemas de Retrieval-Augmented Generation (RAG).
 
-- Soy un firme creyente en el trabajo en equipo y la colaboración, y me esfuerzo por contribuir al éxito de cada proyecto en el que participo. 👥
+🔍 Especializado en chatbots con OpenAI, integraciones de IA en bases de datos vectoriales (Pinecone, FAISS), y automatización de procesos mediante APIs personalizadas.
+
+🌐 Desarrollo full-stack con React, Node.js, Python y frameworks avanzados como LangChain para la optimización de aplicaciones basadas en IA.
+
+🛠️ Experiencia en CI/CD, Docker y despliegue de aplicaciones escalables.
+
+📌 Tecnologías y Herramientas
+
+Frontend: React, Tailwind CSS, Next.js
+
+Backend: Node.js, Python, Express, Flask
+
+IA & NLP: OpenAI, LangChain, Pinecone, FAISS
+
+Bases de Datos: PostgreSQL, MongoDB, SQL
+
+Infraestructura: Docker, CI/CD, Cloud Computing
+
+Otros: GitHub Actions, APIs, Web Scraping
+
+🌍 En constante aprendizaje
+
+Siempre estoy buscando aprender y aplicar nuevas tecnologías. Me apasiona la innovación en IA, el desarrollo de software y la optimización de procesos empresariales mediante soluciones inteligentes. 📚✨
+
+🚀 Proyectos Destacados
+
+🔹 Chatbots IA Empresariales
+
+Desarrollo de chatbots personalizados basados en documentos internos, integrados con OpenAI y bases de datos vectoriales para mejorar la automatización y la eficiencia en el manejo de información.
+
+📫 Conéctate conmigo
+
+LinkedIn: linkedin.com/in/marcgimenocervantes
+
+Portfolio: kainode.com
+
+¡Gracias por visitar mi perfil! 🚀
