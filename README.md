@@ -30,11 +30,6 @@ Siempre estoy buscando aprender y aplicar nuevas tecnologías. Me apasiona la **
 ## 🔹 **Chatbots IA Empresariales**
 Desarrollo de chatbots personalizados basados en documentos internos, integrados con **OpenAI** y bases de datos vectoriales para mejorar la automatización y la eficiencia en el manejo de información.
 
-# 📫 Conéctate conmigo
-
-- **LinkedIn**: [linkedin.com/in/marcgimenocervantes](https://www.linkedin.com/in/marcgimenocervantes)
-- **Portfolio**: [kainode.com](https://kainode.com)
-
 ---
 
 ¡Gracias por visitar mi perfil! 🚀
