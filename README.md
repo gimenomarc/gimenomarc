@@ -6,7 +6,7 @@ Soy **Marc Gimeno Cervantes**, un apasionado desarrollador de software especiali
 
 ## 🔮 Experiencia y Especialización
 
-- 💪 **CEO & Founder** de [KAINODE](https://kainode.com), empresa especializada en la transformación digital e integración de IA en negocios.
+- 💪 **CEO & Founder** de KAINODE, empresa especializada en la transformación digital e integración de IA en negocios.
 - 🤖 **IA Software Developer & IT Manager** en AMB Informació i Serveis SA, donde desarrollo soluciones avanzadas de IA, chatbots y sistemas de **Retrieval-Augmented Generation (RAG)**.
 - 🔍 Especializado en **chatbots con OpenAI**, **integraciones de IA en bases de datos vectoriales (Pinecone, FAISS)**, y automatización de procesos mediante **APIs personalizadas**.
 - 🌐 Desarrollo **full-stack** con **React**, **Node.js**, **Python** y frameworks avanzados como **LangChain** para la optimización de aplicaciones basadas en IA.
