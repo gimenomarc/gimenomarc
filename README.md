@@ -23,7 +23,7 @@ Soy **Marc Gimeno Cervantes**, un apasionado desarrollador de software especiali
 
 ## 🌍 En constante aprendizaje
 
-Siempre estoy buscando aprender y aplicar nuevas tecnologías. Me apasiona la **innovación en IA**, el **desarrollo de software** y la **optimización de procesos empresariales** mediante soluciones inteligentes. 📚✨
+Siempre estoy buscando aprender y aplicar nuevas tecnologías. Me apasiona la **innovación en IA**, el **desarrollo de software** y la **optimización de procesos empresariales** mediante soluciones inteligentes. 
 
 # 🚀 Proyectos Destacados
 
