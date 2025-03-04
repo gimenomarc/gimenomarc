@@ -2,7 +2,7 @@
 
 # Sobre Mí
 
-Soy **Marc Gimeno Cervantes**, un apasionado desarrollador de software especializado en **Inteligencia Artificial**, con experiencia en la gestión de proyectos tecnológicos y el desarrollo de soluciones innovadoras y eficientes. 💻🚀
+Soy **Marc Gimeno**, un apasionado desarrollador de software especializado en **Inteligencia Artificial**, con experiencia en la gestión de proyectos tecnológicos y el desarrollo de soluciones innovadoras y eficientes. 💻🚀
 
 ## 🔮 Experiencia y Especialización
 
